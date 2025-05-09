@@ -17,8 +17,8 @@ def is_enabled(value, default):
 
 class Config(object):
     # Bot Information 
-    TECH_VJ_BOT_TOKEN = 8077734365:AAG1_uFlZkXdZhHu9yBbbOCukjrgU3TYW5s
-    TECH_VJ_BOT_USERNAME = MyFileDownloader7382
+    TECH_VJ_BOT_TOKEN = "8077734365:AAG1_uFlZkXdZhHu9yBbbOCukjrgU3TYW5s"
+    TECH_VJ_BOT_USERNAME = "MyFileDownloader7382"
     
     # The Telegram API things
     TECH_VJ_API_ID = "2240534"
